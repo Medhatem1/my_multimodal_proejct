@@ -1,0 +1,18 @@
+[
+  {
+    "query": "child playing in the park",
+    "relevant_files": ["3421789737_f625dd17ed.jpg"]
+  },
+  {
+    "query": "a dog running on the grass",
+    "relevant_files": ["2180480870_dcaf5ac0df.jpg"]
+  },
+  {
+    "query": "red sports car on the road",
+    "relevant_files": ["380590140_25b9889772.jpg"]
+  },
+  {
+    "query": "a person riding a bicycle",
+    "relevant_files": ["3517023411_a8fbd15230.jpg"]
+  }
+]
